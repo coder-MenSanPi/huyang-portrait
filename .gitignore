@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+outputs/
+output/
+work/
+tasks/
+user-photos/
+__pycache__/

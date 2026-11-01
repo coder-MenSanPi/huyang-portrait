@@ -12,6 +12,12 @@ Create a portrait from your own authorized photo using an image-capable AI tool 
 | T02 | 车旁回望 | Looking back beside a car |
 | T03 | 桌边肖像 | Portrait at a table |
 
+<p align="center">
+  <img src="assets/T01.png" width="30%" alt="AI 生成的黑西装坐姿参考" />
+  <img src="assets/T02.png" width="30%" alt="AI 生成的车旁回望参考" />
+  <img src="assets/T03.png" width="30%" alt="AI 生成的桌边肖像参考" />
+</p>
+
 每款是一组摄影造型与动作方向，实际生成效果取决于原照和所用工具。可以选择其中一款，也可以逐款生成；仓库本身不限制生成次数。示意人物是 AI 虚构形象，不是要求将使用者变成示意人物。
 
 ## 安装和使用 / Install and use
